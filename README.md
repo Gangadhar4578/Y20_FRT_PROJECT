@@ -29,4 +29,9 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 # Sample images of the project :
 
+![Screenshot (21)](https://user-images.githubusercontent.com/88419071/184532505-8a96025f-1784-4297-9f11-edce4c7e5196.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/88419071/184532508-da6ca580-3eab-4646-9123-6b3d5ddfe2ec.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/88419071/184532509-03d6218e-5eaa-4b4c-ba63-f89dc3ea8fbd.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/88419071/184532510-b7f55e99-0ab6-402c-ae5c-2611dfc2f62b.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/88419071/184532512-a5e28cea-7653-4289-bcea-df7012b6843d.png)
 
